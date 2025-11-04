@@ -235,7 +235,7 @@ def main():
         <div style="text-align: center; padding: 2rem 1rem; border: 1px solid var(--cyber-border); border-radius: 8px; margin-bottom: 1rem;">
             <h2 style="color: var(--neon-blue); margin:0; text-shadow: 0 0 10px var(--neon-blue);">🔮</h2>
             <h3 style="margin:0; color: var(--neon-green); font-family: 'Courier New', monospace;">CARDIO AI</h3>
-            <p style="font-size: 0.8rem; color: var(--neon-blue); margin:0; font-family: 'Courier New', monospace;">v2.1.4</p>
+            <p style="font-size: 0.8rem; color: var(--neon-blue); margin:0; font-family: 'Courier New', monospace;"></p>
         </div>
         """, unsafe_allow_html=True)
         
@@ -495,7 +495,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: var(--neon-blue); font-size: 0.8rem; padding: 2rem; font-family: 'Courier New', monospace;">
-        <strong>CARDIOSOUND AI</strong> // NEURAL HEART ANALYSIS SYSTEM v2.1.4<br>
+        <strong>CARDIOSOUND AI</strong> // NEURAL HEART ANALYSIS SYSTEM <br>
         FOR AUTHORIZED MEDICAL PERSONNEL ONLY // SECURITY CLEARANCE REQUIRED
     </div>
     """, unsafe_allow_html=True)
